@@ -1,2 +1,1 @@
-# JavaScrpit-Checkbox-challenge
-Hold Shift and Check Checkboxes
+Hold Shift to Check Multiple Checkboxes using JavaScript
